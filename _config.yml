@@ -12,7 +12,7 @@ presskit_download_link                    : https://dribbble.com/mukireus       
 app_icon                                  : https://biplazma.github.io/assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : BiPlazma                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : There is no easy reachable channel where those who need plasma can reach the plasma they are looking for.
+app_description                           : BiPlazma is bringing together everyone who needs plasma and who can donate plasma on one platform.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
