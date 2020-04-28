@@ -36,7 +36,7 @@ features                                  :
 
   - title                                 : Beautiful UI
     description                           : Designed with Figma.
-    fontawesome_icon_name                 : figma
+    fontawesome_icon_name                 : pencil-ruler
     
   - title                                 : Native Performance
     description                           : Developed with Flutter
@@ -44,11 +44,11 @@ features                                  :
 
   - title                                 : Quick Match
     description                           : Plasma quickly matches seekers and donors.
-    fontawesome_icon_name                 : tachometer-fastest
+    fontawesome_icon_name                 : hands-helping
 
   - title                                 : Choosing a Hospital
     description                           : Hospital is listed according to the city and districts.
-    fontawesome_icon_name                 : hospitals
+    fontawesome_icon_name                 : hospital
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
